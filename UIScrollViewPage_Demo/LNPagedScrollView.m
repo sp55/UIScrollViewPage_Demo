@@ -4,7 +4,7 @@
 //
 //  Created by LucienLi on 16/8/25.
 //  Copyright © 2016年 llj. All rights reserved.
-//
+//http://adad184.com/2015/07/01/opensource-xxpagingscrollview/
 
 #import "LNPagedScrollView.h"
 
